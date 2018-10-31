@@ -3,3 +3,7 @@ Francisco,22,April,1985,brother
 Federico,25,August,1992,brother
 Julio,24,December,1955,father
 Tomas,26,March,1989,cousin
+name,birthday,birthmonth,birthyear,kindofpet
+blue,7,september,2013,cat
+leia,22,july,2015,dog
+dora,unknown,unknown,unknown,dog
